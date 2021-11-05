@@ -1,0 +1,37 @@
+body {
+    background-size: cover;
+}
+
+#heading {
+    font-size: 40px;
+    font-weight: bold;
+    color: indianred;
+    background: black;
+    width: 100%;
+    top: 0;
+    margin-top: 0;
+    line-height: 3;
+}
+
+.results {
+    font-size: 18px;
+    color: indianred;
+    font-weight: bold;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: crimson;
+    color: black;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas {
+    border: 2px solid crimson;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 10px 10px 10px chocolate;
+}
